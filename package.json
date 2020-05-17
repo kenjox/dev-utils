@@ -1,0 +1,12 @@
+{
+  "name": "@kenjox/dev-utils",
+  "version": "0.0.2",
+  "description": "Super simple log functions",
+  "main": "index.js",
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "Kennedy",
+  "license": "MIT"
+}
